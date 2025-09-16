@@ -1,1 +1,1 @@
-"# nft-minting" 
+# NFT MINTING
