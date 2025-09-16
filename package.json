@@ -15,8 +15,6 @@
     "hardhat": "^2.26.1"
   },
   "dependencies": {
-    "@openzeppelin/contracts": "^5.4.0",
-    "dotenv": "^17.2.2",
-    "firebase-admin": "^13.5.0"
+    "@openzeppelin/contracts": "^5.4.0"
   }
 }
